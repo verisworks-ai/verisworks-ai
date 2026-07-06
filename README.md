@@ -29,8 +29,8 @@ Solo-built, production-grade tools for developers and operators who ship with AI
 
 | Tool | Stars | Solves |
 |------|-------|--------|
-| [**prompt-ops-maker**](https://github.com/verisworks-ai/prompt-ops-maker) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/prompt-ops-maker?style=social&logo=star) | AI agents drift without operating rules — generates verification-first prompts with `--self-verify`, `--promptspec`, and cross-model checks (Claude · GPT · Gemini). |
-| [**vibecodecheck**](https://github.com/verisworks-ai/vibecodecheck) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/vibecodecheck?style=social&logo=star) | Vibe-coded MVPs launch with invisible SEO/security gaps — one command audits SEO · AEO · GEO · AI crawler access · security boundary into a single score. |
+| [**prompt-ops-maker**](https://github.com/verisworks-ai/prompt-ops-maker) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/prompt-ops-maker?style=flat-square&color=0F172A&logo=github&logoColor=white&label=⭐) | AI agents drift without operating rules — generates verification-first prompts with `--self-verify`, `--promptspec`, and cross-model checks (Claude · GPT · Gemini). |
+| [**vibecodecheck**](https://github.com/verisworks-ai/vibecodecheck) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/vibecodecheck?style=flat-square&color=0F172A&logo=github&logoColor=white&label=⭐) | Vibe-coded MVPs launch with invisible SEO/security gaps — one command audits SEO · AEO · GEO · AI crawler access · security boundary into a single score. |
 
 ```bash
 npx --yes --package=@veris.works/vibecodecheck vibecodecheck <URL>
@@ -40,8 +40,8 @@ npx --yes --package=@veris.works/vibecodecheck vibecodecheck <URL>
 
 | Tool | Stars | Solves |
 |------|-------|--------|
-| [**naejipgak-mcp**](https://github.com/verisworks-ai/naejipgak-mcp) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/naejipgak-mcp?style=social&logo=star) | Korean apartment subscription (청약) rules are opaque to AI — exposes eligibility checks as a public MCP server any agent can query. |
-| [**service-ontology-lite**](https://github.com/verisworks-ai/service-ontology-lite) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/service-ontology-lite?style=social&logo=star) | Agents operate on web services blind — provides a structured service ontology plus audit tools over MCP. |
+| [**naejipgak-mcp**](https://github.com/verisworks-ai/naejipgak-mcp) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/naejipgak-mcp?style=flat-square&color=0F172A&logo=github&logoColor=white&label=⭐) | Korean apartment subscription (청약) rules are opaque to AI — exposes eligibility checks as a public MCP server any agent can query. |
+| [**service-ontology-lite**](https://github.com/verisworks-ai/service-ontology-lite) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/service-ontology-lite?style=flat-square&color=0F172A&logo=github&logoColor=white&label=⭐) | Agents operate on web services blind — provides a structured service ontology plus audit tools over MCP. |
 
 ---
 
@@ -62,10 +62,16 @@ npx --yes --package=@veris.works/vibecodecheck vibecodecheck <URL>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Claude_API-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API"/>
-  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-blueviolet?style=for-the-badge" alt="MCP"/>
+  <img src="https://img.shields.io/badge/MCP-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white&label=MCP" alt="MCP"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 ---
