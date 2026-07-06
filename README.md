@@ -29,8 +29,8 @@ Solo-built, production-grade tools for developers and operators who ship with AI
 
 | Tool | Stars | Solves |
 |------|-------|--------|
-| [**prompt-ops-maker**](https://github.com/verisworks-ai/prompt-ops-maker) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/prompt-ops-maker?style=flat-square&color=F59E0B) | AI agents drift without operating rules — generates verification-first prompts with `--self-verify`, `--promptspec`, and cross-model checks (Claude · GPT · Gemini). |
-| [**vibecodecheck**](https://github.com/verisworks-ai/vibecodecheck) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/vibecodecheck?style=flat-square&color=F59E0B) | Vibe-coded MVPs launch with invisible SEO/security gaps — one command audits SEO · AEO · GEO · AI crawler access · security boundary into a single score. |
+| [**prompt-ops-maker**](https://github.com/verisworks-ai/prompt-ops-maker) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/prompt-ops-maker?style=social&logo=star) | AI agents drift without operating rules — generates verification-first prompts with `--self-verify`, `--promptspec`, and cross-model checks (Claude · GPT · Gemini). |
+| [**vibecodecheck**](https://github.com/verisworks-ai/vibecodecheck) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/vibecodecheck?style=social&logo=star) | Vibe-coded MVPs launch with invisible SEO/security gaps — one command audits SEO · AEO · GEO · AI crawler access · security boundary into a single score. |
 
 ```bash
 npx --yes --package=@veris.works/vibecodecheck vibecodecheck <URL>
@@ -40,16 +40,16 @@ npx --yes --package=@veris.works/vibecodecheck vibecodecheck <URL>
 
 | Tool | Stars | Solves |
 |------|-------|--------|
-| [**naejipgak-mcp**](https://github.com/verisworks-ai/naejipgak-mcp) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/naejipgak-mcp?style=flat-square&color=F59E0B) | Korean apartment subscription (청약) rules are opaque to AI — exposes eligibility checks as a public MCP server any agent can query. |
-| [**service-ontology-lite**](https://github.com/verisworks-ai/service-ontology-lite) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/service-ontology-lite?style=flat-square&color=F59E0B) | Agents operate on web services blind — provides a structured service ontology plus audit tools over MCP. |
+| [**naejipgak-mcp**](https://github.com/verisworks-ai/naejipgak-mcp) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/naejipgak-mcp?style=social&logo=star) | Korean apartment subscription (청약) rules are opaque to AI — exposes eligibility checks as a public MCP server any agent can query. |
+| [**service-ontology-lite**](https://github.com/verisworks-ai/service-ontology-lite) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/service-ontology-lite?style=social&logo=star) | Agents operate on web services blind — provides a structured service ontology plus audit tools over MCP. |
 
 ---
 
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=verisworks-ai&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&rank_icon=github" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verisworks-ai&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="165" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=verisworks-ai&theme=tokyonight" height="165" alt="GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=verisworks-ai&theme=tokyonight" height="165" alt="Top languages"/>
 </p>
 
 <p align="center">
