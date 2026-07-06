@@ -48,8 +48,8 @@ npx --yes --package=@veris.works/vibecodecheck vibecodecheck <URL>
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=verisworks-ai&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0F172A&title_color=0EA5E9&icon_color=10B981" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verisworks-ai&theme=tokyonight&hide_border=true&layout=compact&bg_color=0F172A&title_color=0EA5E9" height="165" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=verisworks-ai&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&rank_icon=github" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verisworks-ai&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="165" alt="Top languages"/>
 </p>
 
 <p align="center">
