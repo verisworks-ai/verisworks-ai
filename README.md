@@ -32,11 +32,11 @@ prompt-ops-maker (write) → vibecodecheck (audit) → MCP servers (serve) — o
 ### Verification & audit
 
 <!-- AUTO:verification-audit-start -->
-| Tool | Solves |
-|------|--------|
-| [**prompt-ops-maker**](https://github.com/verisworks-ai/prompt-ops-maker) | AI agents drift without rules → verification-first prompts with cross-model checks |
-| [**vibecodecheck**](https://github.com/verisworks-ai/vibecodecheck) | Vibe-coded MVPs launch blind → one command scores SEO · security · AI crawler access |
-| [**github-profile-ops**](https://github.com/verisworks-ai/github-profile-ops) | Profile README setup is confusing → one command generates it with interactive guidance |
+| Tool | Stars | Solves |
+|------|-------|--------|
+| [**prompt-ops-maker**](https://github.com/verisworks-ai/prompt-ops-maker) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/prompt-ops-maker?style=social) | AI agents drift without rules → verification-first prompts with cross-model checks |
+| [**vibecodecheck**](https://github.com/verisworks-ai/vibecodecheck) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/vibecodecheck?style=social) | Vibe-coded MVPs launch blind → one command scores SEO · security · AI crawler access |
+| [**github-profile-ops**](https://github.com/verisworks-ai/github-profile-ops) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/github-profile-ops?style=social) | Profile README setup is confusing → one command generates it with interactive guidance |
 <!-- AUTO:verification-audit-end -->
 
 ```bash
@@ -52,10 +52,10 @@ npx --yes --package=@veris.works/vibecodecheck vibecodecheck <URL>
 ### MCP servers
 
 <!-- AUTO:mcp-servers-start -->
-| Tool | Solves |
-|------|--------|
-| [**naejipgak-mcp**](https://github.com/verisworks-ai/naejipgak-mcp) | 청약 규칙이 AI에게 불투명 → 공개 MCP로 자격 조회 제공 |
-| [**service-ontology-lite**](https://github.com/verisworks-ai/service-ontology-lite) | Agents operate blind → structured service ontology + audit tools over MCP |
+| Tool | Stars | Solves |
+|------|-------|--------|
+| [**naejipgak-mcp**](https://github.com/verisworks-ai/naejipgak-mcp) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/naejipgak-mcp?style=social) | 청약 규칙이 AI에게 불투명 → 공개 MCP로 자격 조회 제공 |
+| [**service-ontology-lite**](https://github.com/verisworks-ai/service-ontology-lite) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/service-ontology-lite?style=social) | Agents operate blind → structured service ontology + audit tools over MCP |
 <!-- AUTO:mcp-servers-end -->
 
 **naejipgak-mcp — Claude Desktop 연동:**

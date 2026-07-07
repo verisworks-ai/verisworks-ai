@@ -18,14 +18,15 @@ const audit = all.filter(r => !MCP_RE.test(r.name));
 function rows(list) {
   return list.map(r => {
     const desc = (r.description || '—').replace(/[|]/g, '\\|');
-    return `| [**${r.name}**](${r.html_url}) | ${desc} |`;
+    const stars = `![Stars](https://img.shields.io/github/stars/${OWNER}/${r.name}?style=social)`;
+    return `| [**${r.name}**](${r.html_url}) | ${stars} | ${desc} |`;
   }).join('\n');
 }
 
 function replaceSection(src, marker, content) {
   const start = `<!-- AUTO:${marker}-start -->`;
   const end = `<!-- AUTO:${marker}-end -->`;
-  const table = `| Tool | Solves |\n|------|--------|\n${content}`;
+  const table = `| Tool | Stars | Solves |\n|------|-------|--------|\n${content}`;
   const re = new RegExp(`${start}[\\s\\S]*?${end}`, 'g');
   return src.replace(re, `${start}\n${table}\n${end}`);
 }
