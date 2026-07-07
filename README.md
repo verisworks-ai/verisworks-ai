@@ -3,11 +3,9 @@
 </p>
 
 <p align="center">
-  <strong style="font-size:1.6em;">verisworks-ai</strong>
-</p>
-
-<p align="center">
-  <em>Ship with verification, not vibes.</em>
+  <a href="https://veris.kr">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=2000&color=0EA5E9&center=true&vCenter=true&width=640&height=60&lines=Ship+with+verification%2C+not+vibes;verisworks-ai;AI-native+devtools+for+real+operators" alt="verisworks-ai"/>
+  </a>
 </p>
 
 <p align="center">
@@ -75,6 +73,19 @@ npx -y naejipgak-mcp
 
 ---
 
+## Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=verisworks-ai&theme=tokyonight" height="165" alt="GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=verisworks-ai&theme=tokyonight" height="165" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=verisworks-ai&theme=tokyonight&hide_border=true&background=0F172A&ring=0EA5E9&fire=10B981&currStreakLabel=0EA5E9" alt="Streak stats"/>
+</p>
+
+---
+
 ## Stack
 
 <p align="center">
@@ -90,6 +101,44 @@ npx -y naejipgak-mcp
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
+
+---
+
+## Contribution snake
+
+<!--
+  Setup: create .github/workflows/snake.yml in this repo
+
+  name: Generate snake
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  permissions:
+    contents: write
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: verisworks-ai
+            outputs: |
+              dist/github-snake.svg
+              dist/github-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/verisworks-ai/verisworks-ai/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/verisworks-ai/verisworks-ai/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/verisworks-ai/verisworks-ai/output/github-snake.svg" alt="Contribution snake" width="100%"/>
+</picture>
 
 ---
 
