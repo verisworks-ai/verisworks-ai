@@ -18,7 +18,7 @@ const audit = all.filter(r => !MCP_RE.test(r.name));
 function rows(list) {
   return list.map(r => {
     const desc = (r.description || '—').replace(/[|]/g, '\\|');
-    const stars = `![Stars](https://img.shields.io/github/stars/${OWNER}/${r.name}?style=social)`;
+    const stars = `![Stars](https://img.shields.io/github/stars/${OWNER}/${r.name}?style=flat-square&logo=github&labelColor=0F172A&color=0EA5E9)`;
     return `| [**${r.name}**](${r.html_url}) | ${stars} | ${desc} |`;
   }).join('\n');
 }
