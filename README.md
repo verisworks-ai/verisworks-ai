@@ -16,6 +16,7 @@
   <a href="https://veris.kr"><img src="https://img.shields.io/badge/veris.kr-0EA5E9?style=flat-square&logoColor=white" alt="veris.kr"/></a>
   <a href="https://apt.veris.kr"><img src="https://img.shields.io/badge/apt.veris.kr-내집각-10B981?style=flat-square" alt="apt.veris.kr"/></a>
   <a href="mailto:hello@veris.kr"><img src="https://img.shields.io/badge/hello%40veris.kr-64748B?style=flat-square" alt="email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=verisworks-ai&color=0EA5E9&style=flat-square" alt="profile views"/>
 </p>
 
 ---
