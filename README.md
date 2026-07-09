@@ -34,8 +34,8 @@ prompt-ops-maker (write) → vibecodecheck (audit) → MCP servers (serve) — o
 <!-- AUTO:verification-audit-start -->
 | Tool | Stars | Solves |
 |------|-------|--------|
-| [**vibecodecheck**](https://github.com/verisworks-ai/vibecodecheck) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/vibecodecheck?style=flat-square&logo=github&labelColor=0F172A&color=0EA5E9) | Pre-launch site check for vibe-coded MVPs — SEO, AEO, GEO, AI crawler, security |
 | [**prompt-ops-maker**](https://github.com/verisworks-ai/prompt-ops-maker) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/prompt-ops-maker?style=flat-square&logo=github&labelColor=0F172A&color=0EA5E9) | Generate verification-focused operating prompts for AI agents. |
+| [**vibecodecheck**](https://github.com/verisworks-ai/vibecodecheck) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/vibecodecheck?style=flat-square&logo=github&labelColor=0F172A&color=0EA5E9) | Pre-launch site check for vibe-coded MVPs — SEO, AEO, GEO, AI crawler, security |
 | [**github-profile-ops**](https://github.com/verisworks-ai/github-profile-ops) | ![Stars](https://img.shields.io/github/stars/verisworks-ai/github-profile-ops?style=flat-square&logo=github&labelColor=0F172A&color=0EA5E9) | GitHub profile README generator — powered by prompt-ops-maker principles |
 <!-- AUTO:verification-audit-end -->
 
